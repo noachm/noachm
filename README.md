@@ -59,15 +59,11 @@ I build practical tools that increase leverage, efficiency, and control.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noachm&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400&rank_icon=github"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noachm&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"/>
-</p>
+Consistent development in progress.
+Daily commits increasing.
+Repositories and languages visible in profile insights.
 
 
 ---
