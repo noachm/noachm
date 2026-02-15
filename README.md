@@ -1,42 +1,88 @@
-# Hi 👋, I'm Noach
+<!-- ================= HEADER ================= -->
+<h1 align="center">Noach ⚡</h1>
 
-### Python Developer • Automation • Security • Intelligent Systems
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noachm&label=Profile views&color=0e75b6&style=flat" alt="noachm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noachm" alt="noachm" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/NoachMeert" target="blank"><img src="https://img.shields.io/twitter/follow/NoachMeert?logo=twitter&style=for-the-badge" alt="NoachMeert" /></a> </p>
-
-- 🔭 I'm currently working on **Building automation tools, AI-assisted utilities, and security-focused scripts to improve real-world leverage and efficiency.**
-
-- 🌱 I'm currently learning **System design, scalable automation, AI-assisted development, and advanced Python architecture.**
-
-- 👯 I'm looking to collaborate on **Automation tools, security utilities, OSINT-related tooling, and practical open-source projects with real-world use.**
-
-- 🤝 I'm looking for help with **Advanced system design, performance optimization, and building scalable, production-grade tools.**
-
-- 💬 Ask me about **Python, automation, scripting, security basics, tooling, productivity systems, and practical development workflows.**
-
-- 📫 How to reach me **GitHub Only**
-
-- ⚡ Fun fact **I focus on building tools that increase leverage, automation, and long-term efficiency rather than one-time projects.**
-
-- 👨‍💻 All of my projects are available at **[https://noach.io](https://noach.io)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/noachm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="noachm" height="30" width="40" /></a>
-<a href="https://twitter.com/NoachMeert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NoachMeert" height="30" width="40" /></a>
+<p align="center">
+Automation • Security • Python • Intelligent Systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+<p align="center">
+I build practical tools that increase leverage, efficiency, and control.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noachm&show_icons=true&locale=en&layout=compact" alt="noachm" /></p>
+<!-- ================= TYPING ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Automation+Engineer;Python+Developer;Security-minded+Builder;Systems+%26+Tools" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noachm&show_icons=true&locale=en" alt="noachm" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noachm&" alt="noachm" /></p>
+## 🧠 Current Focus
+- 🤖 Automation & AI-assisted tools  
+- ⚙️ Python architecture & system design  
+- 🛠 Real-world practical tooling  
+- 📈 Consistency & output  
 
+---
 
+## ⚙️ Core Stack
+
+**Languages**
+- Python 🐍
+- Bash
+- SQL (basic)
+
+**Environment & Tools**
+- Linux / macOS
+- Git
+- CLI / Automation
+- APIs / Data
+- VS Code
+
+---
+
+## 🔎 Specialization
+- Automation & scripting ⚡  
+- Security-minded tooling 🔐  
+- Productivity systems 📊  
+- AI-assisted development 🤖  
+- Practical software design 🧩  
+
+---
+
+## 📌 Featured Projects
+*(Fill these as you build — important for credibility)*
+
+- **Automation Toolkit** — Scripts that automate real-world workflows  
+- **AI Utility Tools** — Small intelligent tools for analysis & productivity  
+- **System Monitor CLI** — Lightweight system & process monitor  
+- **File Intelligence Tool** — Smart file sorter / analyzer  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noachm&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noachm&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" height="165"/>
+</p>
+
+---
+
+## 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=noachm&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noachm/noachm/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📬 Contact
+GitHub only.
