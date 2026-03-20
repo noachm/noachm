@@ -50,7 +50,6 @@ I build practical tools that increase leverage, efficiency, and control.
 ---
 
 ## 📌 Featured Projects
-*(Fill these as you build — important for credibility)*
 
 - **Automation Toolkit** — Scripts that automate real-world workflows  
 - **AI Utility Tools** — Small intelligent tools for analysis & productivity  
